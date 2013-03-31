@@ -1,14 +1,14 @@
-AlgorithmVisualizer
+Algorithm Visualizer
 ===================
 
-Algorithm Visualization using .NET platform, GUI is based on WPF.
+Algorithm visualization using .NET platform, GUI is based on WPF.
 
-##Soring Algorithm##
+##Sort Algorithm##
 
-+Bubble Sort
-+Selection Srot
-+Insertion Sort
-+Shell Sort
-+Merge Sort
-+Quick Sort
+* Bubble Sort
+* Selection Srot
+* Insertion Sort
+* Shell Sort
+* Merge Sort
+* Quick Sort
 
