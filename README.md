@@ -1,7 +1,7 @@
 Algorithm Visualizer
 ===================
 
-Algorithm visualization using .NET platform, GUI is based on WPF.
+Algorithm visualization based on .NET platform, GUI is using WPF.
 
 ##Sort Algorithm##
 
