@@ -9,6 +9,9 @@ Algorithm visualization using .NET platform, GUI is based on WPF.
 * Selection Srot
 * Insertion Sort
 * Shell Sort
-* Merge Sort
+* Merge Sort (Top Down)
+* Merge Sort (Bottom Up)
+* Quick Sort (3 Way)
 * Quick Sort
+
 
